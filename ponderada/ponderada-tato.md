@@ -1,4 +1,4 @@
-# Ponderada CC08 — Caroline Moraes Paz | D1 = 8 | D2 = 7 | N = 5
+# Ponderada CC08 - Caroline Moraes Paz | D1 = 8 | D2 = 7 | N = 5
 
 Cálculo dos parâmetros: Caroline = 8, Moraes = 6, Paz = 3.
 
