@@ -11,7 +11,6 @@ Análise de arquitetura, pipeline, processos, semáforos e deadlock da pulseira 
 └── ponderada/
     ├── ponderada-tato.md   # Parte A (questões A1 a A5) e Parte B (memorando)
     ├── codigo/             # Código da questão A4
-    │   ├── comum.py        # Parâmetros (N = 5, 20.000 amostras) e métricas
     │   ├── versao1.py      # Versão 1: sem sincronização
     │   ├── versao2.py      # Versão 2: com semáforos
     │   └── versao3.py      # Versão 3: ordem dos semáforos trocada (deadlock)
